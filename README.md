@@ -1,2 +1,2 @@
 # Numyard_Projects
-Data Science Accelerator Program offered by Numyard
+Projects done during Data Science Accelerator Program offered by Numyard
